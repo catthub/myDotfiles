@@ -42,7 +42,7 @@
         {
           "type": "basic",
           "from":{
-            "key_code": "o"
+            "key_code": "right_command"
           },
           "to":[
             {
@@ -154,24 +154,6 @@
         {
           "type": "basic",
           "from":{
-            "key_code": "y"
-          },
-          "to":[
-            {
-              "shell_command": "source $HOME/.config/myDotFiles/yabai/yabairc"
-            }
-          ],
-          "conditions":[
-            {
-              "type": "variable_if",
-              "name": "toggle_yabai",
-              "value": 1
-            }
-          ]
-        },
-        {
-          "type": "basic",
-          "from":{
             "key_code": "t"
           },
           "to":[
@@ -202,35 +184,6 @@
               "type": "variable_if",
               "name": "toggle_yabai",
               "value": 1
-            }
-          ]
-        },
-        {
-          "type": "basic",
-          "from":{
-            "key_code": "w"
-          },
-          "to":[
-            {
-              "shell_command": "/usr/local/bin/yabai -m space --create"
-            },
-            {
-              "shell_command": "/usr/local/bin/yabai -m window --space last"
-            },
-            {
-              "shell_command": "/usr/local/bin/yabai -m space --focus last"
-            }
-          ],
-          "conditions":[
-            {
-              "type": "variable_if",
-              "name": "toggle_yabai",
-              "value": 1
-            },
-            {
-              "type": "variable_if",
-              "name": "tggle_float",
-              "value": 0
             }
           ]
         },
@@ -277,6 +230,354 @@
               "type": "variable_if",
               "name": "tggle_float",
               "value": 0
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from":{
+            "key_code": "w"
+          },
+          "to":[
+            {
+              "key_code": "up_arrow",
+              "modifiers":[
+                "left_control"
+              ]
+            }
+          ],
+          "conditions":[
+            {
+              "type": "variable_if",
+              "name": "toggle_yabai",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from":{
+            "key_code": "c"
+          },
+          "to":[
+            {
+              "shell_command": "/usr/local/bin/yabai -m space --create"
+            },
+            {
+              "shell_command": "/usr/local/bin/yabai -m space --focus last"
+            }
+          ],
+          "conditions":[
+            {
+              "type": "variable_if",
+              "name": "toggle_yabai",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from":{
+            "key_code": "d"
+          },
+          "to":[
+            {
+              "shell_command": "/usr/local/bin/yabai -m space --destroy"
+            }
+          ],
+          "conditions":[
+            {
+              "type": "variable_if",
+              "name": "toggle_yabai",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from":{
+            "key_code": "y",
+            "modifiers":{
+              "mandatory":[
+                "shift"
+              ]
+            }
+          },
+          "to":[
+            {
+              "shell_command": "/usr/local/bin/yabai -m window --space prev"
+            },
+            {
+              "shell_command": "/usr/local/bin/yabai -m space --focus prev"
+            }
+          ],
+          "conditions":[
+            {
+              "type": "variable_if",
+              "name": "toggle_yabai",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from":{
+            "key_code": "o",
+            "modifiers":{
+              "mandatory":[
+                "shift"
+              ]
+            }
+          },
+          "to":[
+            {
+              "shell_command": "/usr/local/bin/yabai -m window --space next"
+            },
+            {
+              "shell_command": "/usr/local/bin/yabai -m space --focus next"
+            }
+          ],
+          "conditions":[
+            {
+              "type": "variable_if",
+              "name": "toggle_yabai",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from":{
+            "key_code": "u",
+            "modifiers":{
+              "mandatory":[
+                "shift"
+              ]
+            }
+          },
+          "to":[
+            {
+              "shell_command": "/usr/local/bin/yabai -m window --display prev"
+            },
+            {
+              "shell_command": "/usr/local/bin/yabai -m display --focus prev"
+            }
+          ],
+          "conditions":[
+            {
+              "type": "variable_if",
+              "name": "toggle_yabai",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from":{
+            "key_code": "i",
+            "modifiers":{
+              "mandatory":[
+                "shift"
+              ]
+            }
+          },
+          "to":[
+            {
+              "shell_command": "/usr/local/bin/yabai -m window --display next"
+            },
+            {
+              "shell_command": "/usr/local/bin/yabai -m display --focus next"
+            }
+          ],
+          "conditions":[
+            {
+              "type": "variable_if",
+              "name": "toggle_yabai",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from":{
+            "key_code": "y",
+            "modifiers":{
+              "optional":[
+                "any"
+              ]
+            }
+          },
+          "to":[
+            {
+              "shell_command": "/usr/local/bin/yabai -m space --focus prev"
+            }
+          ],
+          "conditions":[
+            {
+              "type": "variable_if",
+              "name": "toggle_yabai",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from":{
+            "key_code": "o",
+            "modifiers":{
+              "optional":[
+                "any"
+              ]
+            }
+          },
+          "to":[
+            {
+              "shell_command": "/usr/local/bin/yabai -m space --focus next"
+            }
+          ],
+          "conditions":[
+            {
+              "type": "variable_if",
+              "name": "toggle_yabai",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from":{
+            "key_code": "u",
+            "modifiers":{
+              "optional":[
+                "any"
+              ]
+            }
+          },
+          "to":[
+            {
+              "shell_command": "/usr/local/bin/yabai -m display --focus prev"
+            }
+          ],
+          "conditions":[
+            {
+              "type": "variable_if",
+              "name": "toggle_yabai",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from":{
+            "key_code": "i",
+            "modifiers":{
+              "optional":[
+                "any"
+              ]
+            }
+          },
+          "to":[
+            {
+              "shell_command": "/usr/local/bin/yabai -m display --focus next"
+            }
+          ],
+          "conditions":[
+            {
+              "type": "variable_if",
+              "name": "toggle_yabai",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from":{
+            "key_code": "h",
+            "modifiers":{
+              "optional":[
+                "any"
+              ]
+            }
+          },
+          "to":[
+            {
+              "shell_command": "/usr/local/bin/yabai -m window --focus west"
+            }
+          ],
+          "conditions":[
+            {
+              "type": "variable_if",
+              "name": "toggle_yabai",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from":{
+            "key_code": "j",
+            "modifiers":{
+              "optional":[
+                "any"
+              ]
+            }
+          },
+          "to":[
+            {
+              "shell_command": "/usr/local/bin/yabai -m window --focus south"
+            }
+          ],
+          "conditions":[
+            {
+              "type": "variable_if",
+              "name": "toggle_yabai",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from":{
+            "key_code": "k",
+            "modifiers":{
+              "optional":[
+                "any"
+              ]
+            }
+          },
+          "to":[
+            {
+              "shell_command": "/usr/local/bin/yabai -m window --focus north"
+            }
+          ],
+          "conditions":[
+            {
+              "type": "variable_if",
+              "name": "toggle_yabai",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from":{
+            "key_code": "l",
+            "modifiers":{
+              "optional":[
+                "any"
+              ]
+            }
+          },
+          "to":[
+            {
+              "shell_command": "/usr/local/bin/yabai -m window --focus east"
+            }
+          ],
+          "conditions":[
+            {
+              "type": "variable_if",
+              "name": "toggle_yabai",
+              "value": 1
             }
           ]
         },
@@ -683,26 +984,6 @@
             {
               "mouse_key": {
                 "speed_multiplier": 1.5
-              }
-            }
-          ],
-          "conditions": [
-            {
-              "type": "variable_if",
-              "name": "toggle_yabai",
-              "value": 1
-            }
-          ]
-        },
-        {
-          "type": "basic",
-          "from": {
-            "key_code": "d"
-          },
-          "to": [
-            {
-              "mouse_key": {
-                "speed_multiplier": 0.25
               }
             }
           ],
