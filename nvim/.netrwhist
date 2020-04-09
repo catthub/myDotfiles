@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/icattus/cattus/workspace/particle_filter_practice'
+let g:netrw_dirhist_6='/Users/icattus/cattus/workspace/StudyPython/MIT-Python/chapter-6'
+let g:netrw_dirhist_5='/Users/icattus/Library/Application Support/Übersicht/widgets/bar/lib'
+let g:netrw_dirhist_4='/Users/icattus/Library/Application Support/Übersicht/widgets/bar'
+let g:netrw_dirhist_3='/Users/icattus/.config/myDotFiles/yabai/yabairc'
+let g:netrw_dirhist_2='/'
+let g:netrw_dirhist_1='/Users/icattus/.config/alacritty'

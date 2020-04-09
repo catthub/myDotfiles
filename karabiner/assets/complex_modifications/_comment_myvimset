@@ -1,0 +1,31 @@
+やること
+#undo
+#Redo
+# Show current mode all time
+# :w
+:wa
+# :q
+# C-d
+# C-u
+# x
+# Dd
+Cw, b
+Dw, b
+# Cc
+# Y
+# P
+# [[
+# ]]
+# O, o
+# I, ia
+# a, A
+Enter
+# Space a l -> C-o
+
+Visual mode( sift right_arrow)
+hjkl
+shift hjkl
+
+Mac: 制御
+Mission controllo
+タスク切り替え

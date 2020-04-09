@@ -1,0 +1,19 @@
+{
+  "lists": {
+    "%2FUsers%2Ficattus": [
+      "dia"
+    ]
+  },
+  "commands": {
+    "%2FUsers%2Ficattus%2Fcattus%2Fworkspace%2FStudyPython%2Fscripts": [
+      "python.setInterpreter",
+      "python.setinter",
+      "pythonsetin",
+      "python.seti",
+      "pythonseti"
+    ],
+    "%2FUsers%2Ficattus%2Fcattus%2Fworkspace%2FStudyPython": [
+      "pythonsetin"
+    ]
+  }
+}

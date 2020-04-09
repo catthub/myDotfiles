@@ -1,0 +1,6 @@
+split-window -h
+select-pane -t 1
+split-window -v
+select-pane -t 0
+resize-pane -t 1 -x 70 -y 8 
+send-keys -t 1 htop C-m

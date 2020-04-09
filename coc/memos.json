@@ -1,0 +1,1626 @@
+{
+  "coc-python|/Users/icattus": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/versions/3.7.7/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "728059c3fc7075ef767bfc349eb4afb00562799ffbb55fd77befc4a340357878d87a204f12d067c9e1bb7918986114b432305ec1bec31e3f0f80f4cf59368de2",
+        "envName": "3.7.7",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/versions/3.7.7/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "c20b5ce0f639bef86a9007928b4d0784d6eaa0129cf14d8b3e8328a52a0b2fee9b766081fa922a7517dbd8e0c6d19365f74f50706da0c828e4a6ca018b1216b7",
+        "envName": "3.7.7",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/versions/3.7.7/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "858cd4804a1af8a163873d921f6a2a90f42df5d741ad15defb4fab2a209d23d984177cc887e3e6647144567f006e78f91e6a1e9cebc9ec3884e1ed2a5301b188",
+        "envName": "3.7.7",
+        "type": "Pyenv"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "/usr/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "6e89609d81f437f8feebf03cc2fb8f1fe8c6b651e9dba380da5374768f5672ad8c4bc14d3e832022fb0d64465a49dab676f5d86f2fed0701734168f049953bf1"
+      },
+      "expiry": 1586170134263
+    },
+    "/usr/local/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "23b93bdb3de1f76be3c6c71c88a22432314388ca3f5d9906ae24ddfb35830a1739e07b464a1b56d5d47092c0d28046f6a1cda0b173944bca3407a7da37480466"
+      },
+      "expiry": 1586170134267
+    },
+    "/usr/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "b4e8539d5fe5cd8543ba07c0f48c93bbc959aaf0ea3ec2affaead8e5482cb02ff1792b5154597a5e6841a89c15ab21a321e98d3c68707553ca382f9c4258816b"
+      },
+      "expiry": 1586170134265
+    },
+    "/usr/local/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "f13b79ac1ff953c89b8fe68b18b8e2135532fc74e2f872c7859964864bf9398cc187fef4724c056b9f006f9c3255ad41bf1e9a23fcb516c30b0234702893fea0"
+      },
+      "expiry": 1586170134268
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.3-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.3-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7",
+        "fileHash": "38ffd191454e25d8788f5d42080c84ce8a7f04a1e459dbbfd1b919211ae64e6c0dfb39ccc9d601e2459af5e42d31b25b4ac3340a82eecf4f782f1a6f3a3243bc"
+      },
+      "expiry": 1586170134285
+    },
+    "/usr/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "4fdb0df1c274bf86df4ec51b33f0fceeee76bee4ff94dfde003d61490c0369284baae6442df9479719141a5f23a923d98aa9a41aa172b0cf0872606fcc620dcd"
+      },
+      "expiry": 1586170134287
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "620c7bc7350853b837393799ec47938b156b589c1e4c9377dd16d43b5deeea7ef8167ed6d4c2a56aa79a495352ddc991c2e89c8dfc168878192b3c1dab92643d"
+      },
+      "expiry": 1586170136713
+    },
+    "/usr/local/opt/python/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/opt/python/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "4b385e2062cce6819789efad1d1844bbe61e6186b262bf7be9afe0338343c3ff1b47b4a796a8c6df26511cfc625f9cfa2ab3526e68df2c7b1630801def903234"
+      },
+      "expiry": 1585396658694
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "abab3890af7076cfc9c5a77dcbc4d9c2e01386b8aeffcd3fa0855fadd0b92b89d4ceb5e74569edf213c8cadf0ab02e2b3a85e0955c2f25b1e3c1e9f99f2e351d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "48d8b757a1fc7fc51064ef71ab03d4ecc9e981b35d8ebce0e7b85de8700712c79300de1474db588361a59f8c326a2470818e78a0b658b24b9c1cef0987eb2848",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/shims/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "a7e38c0c3537d164f7421ef4a3fc417e6c7ff3b198d2130b7313c6e42983c0e5a06319e85661d6f87c490fc9d2699b1b3b5be63f791ac2eebcdb6867e08fffcb",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "f13b79ac1ff953c89b8fe68b18b8e2135532fc74e2f872c7859964864bf9398cc187fef4724c056b9f006f9c3255ad41bf1e9a23fcb516c30b0234702893fea0",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "23b93bdb3de1f76be3c6c71c88a22432314388ca3f5d9906ae24ddfb35830a1739e07b464a1b56d5d47092c0d28046f6a1cda0b173944bca3407a7da37480466",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "b4e8539d5fe5cd8543ba07c0f48c93bbc959aaf0ea3ec2affaead8e5482cb02ff1792b5154597a5e6841a89c15ab21a321e98d3c68707553ca382f9c4258816b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "6e89609d81f437f8feebf03cc2fb8f1fe8c6b651e9dba380da5374768f5672ad8c4bc14d3e832022fb0d64465a49dab676f5d86f2fed0701734168f049953bf1",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "4fdb0df1c274bf86df4ec51b33f0fceeee76bee4ff94dfde003d61490c0369284baae6442df9479719141a5f23a923d98aa9a41aa172b0cf0872606fcc620dcd",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.3-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.3-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7",
+        "fileHash": "38ffd191454e25d8788f5d42080c84ce8a7f04a1e459dbbfd1b919211ae64e6c0dfb39ccc9d601e2459af5e42d31b25b4ac3340a82eecf4f782f1a6f3a3243bc",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "abab3890af7076cfc9c5a77dcbc4d9c2e01386b8aeffcd3fa0855fadd0b92b89d4ceb5e74569edf213c8cadf0ab02e2b3a85e0955c2f25b1e3c1e9f99f2e351d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "48d8b757a1fc7fc51064ef71ab03d4ecc9e981b35d8ebce0e7b85de8700712c79300de1474db588361a59f8c326a2470818e78a0b658b24b9c1cef0987eb2848",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/shims/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "a7e38c0c3537d164f7421ef4a3fc417e6c7ff3b198d2130b7313c6e42983c0e5a06319e85661d6f87c490fc9d2699b1b3b5be63f791ac2eebcdb6867e08fffcb",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "f13b79ac1ff953c89b8fe68b18b8e2135532fc74e2f872c7859964864bf9398cc187fef4724c056b9f006f9c3255ad41bf1e9a23fcb516c30b0234702893fea0",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "23b93bdb3de1f76be3c6c71c88a22432314388ca3f5d9906ae24ddfb35830a1739e07b464a1b56d5d47092c0d28046f6a1cda0b173944bca3407a7da37480466",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "b4e8539d5fe5cd8543ba07c0f48c93bbc959aaf0ea3ec2affaead8e5482cb02ff1792b5154597a5e6841a89c15ab21a321e98d3c68707553ca382f9c4258816b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "6e89609d81f437f8feebf03cc2fb8f1fe8c6b651e9dba380da5374768f5672ad8c4bc14d3e832022fb0d64465a49dab676f5d86f2fed0701734168f049953bf1",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "4fdb0df1c274bf86df4ec51b33f0fceeee76bee4ff94dfde003d61490c0369284baae6442df9479719141a5f23a923d98aa9a41aa172b0cf0872606fcc620dcd",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.3-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.3-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7",
+        "fileHash": "38ffd191454e25d8788f5d42080c84ce8a7f04a1e459dbbfd1b919211ae64e6c0dfb39ccc9d601e2459af5e42d31b25b4ac3340a82eecf4f782f1a6f3a3243bc",
+        "type": "Unknown"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/versions/3.7.7/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "858cd4804a1af8a163873d921f6a2a90f42df5d741ad15defb4fab2a209d23d984177cc887e3e6647144567f006e78f91e6a1e9cebc9ec3884e1ed2a5301b188",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/versions/3.7.7/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "c20b5ce0f639bef86a9007928b4d0784d6eaa0129cf14d8b3e8328a52a0b2fee9b766081fa922a7517dbd8e0c6d19365f74f50706da0c828e4a6ca018b1216b7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "620c7bc7350853b837393799ec47938b156b589c1e4c9377dd16d43b5deeea7ef8167ed6d4c2a56aa79a495352ddc991c2e89c8dfc168878192b3c1dab92643d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/versions/3.7.7/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "728059c3fc7075ef767bfc349eb4afb00562799ffbb55fd77befc4a340357878d87a204f12d067c9e1bb7918986114b432305ec1bec31e3f0f80f4cf59368de2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/versions/3.7.7/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "728059c3fc7075ef767bfc349eb4afb00562799ffbb55fd77befc4a340357878d87a204f12d067c9e1bb7918986114b432305ec1bec31e3f0f80f4cf59368de2",
+        "type": "Unknown"
+      }
+    ],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/Users/icattus/.pyenv/versions/3.7.7/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+      "fileHash": "728059c3fc7075ef767bfc349eb4afb00562799ffbb55fd77befc4a340357878d87a204f12d067c9e1bb7918986114b432305ec1bec31e3f0f80f4cf59368de2",
+      "type": "Unknown"
+    },
+    "PipEnvInformation": [],
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/Users/icattus/.pyenv/shims/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+      "fileHash": "abab3890af7076cfc9c5a77dcbc4d9c2e01386b8aeffcd3fa0855fadd0b92b89d4ceb5e74569edf213c8cadf0ab02e2b3a85e0955c2f25b1e3c1e9f99f2e351d",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.7.7 64-bit"
+    },
+    "/usr/local/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.6 64-bit",
+        "hash": "f13b79ac1ff953c89b8fe68b18b8e2135532fc74e2f872c7859964864bf9398cc187fef4724c056b9f006f9c3255ad41bf1e9a23fcb516c30b0234702893fea0-7dc4cb15fc20dc9d0f6745b65d3bc442"
+      },
+      "expiry": 1586170136690
+    },
+    "/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "b4e8539d5fe5cd8543ba07c0f48c93bbc959aaf0ea3ec2affaead8e5482cb02ff1792b5154597a5e6841a89c15ab21a321e98d3c68707553ca382f9c4258816b-25cc108a1ea9a350f7672e225a75fa4f"
+      },
+      "expiry": 1586170136699
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.3 64-bit",
+        "hash": "38ffd191454e25d8788f5d42080c84ce8a7f04a1e459dbbfd1b919211ae64e6c0dfb39ccc9d601e2459af5e42d31b25b4ac3340a82eecf4f782f1a6f3a3243bc-32c931521aab6e538148f764bbf2c70e"
+      },
+      "expiry": 1586170136702
+    },
+    "/usr/local/opt/python/bin/python3.7.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.6 64-bit",
+        "hash": "4b385e2062cce6819789efad1d1844bbe61e6186b262bf7be9afe0338343c3ff1b47b4a796a8c6df26511cfc625f9cfa2ab3526e68df2c7b1630801def903234-fb5ddd2abcf17c2ff89613861c39a9cb"
+      },
+      "expiry": 1585396778866
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "620c7bc7350853b837393799ec47938b156b589c1e4c9377dd16d43b5deeea7ef8167ed6d4c2a56aa79a495352ddc991c2e89c8dfc168878192b3c1dab92643d-3cbf32b0801a7d7850eee52719e61ea2"
+      },
+      "expiry": 1586170728032
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/Users/icattus/.pyenv/shims/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+      "fileHash": "abab3890af7076cfc9c5a77dcbc4d9c2e01386b8aeffcd3fa0855fadd0b92b89d4ceb5e74569edf213c8cadf0ab02e2b3a85e0955c2f25b1e3c1e9f99f2e351d",
+      "type": "Unknown",
+      "displayName": "Python 3.7.7 64-bit"
+    },
+    "/usr/local/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "f13b79ac1ff953c89b8fe68b18b8e2135532fc74e2f872c7859964864bf9398cc187fef4724c056b9f006f9c3255ad41bf1e9a23fcb516c30b0234702893fea0",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.6-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.6-final"
+          },
+          "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+          "fileHash": "f13b79ac1ff953c89b8fe68b18b8e2135532fc74e2f872c7859964864bf9398cc187fef4724c056b9f006f9c3255ad41bf1e9a23fcb516c30b0234702893fea0",
+          "type": "Unknown",
+          "displayName": "Python 3.7.6 64-bit"
+        }
+      },
+      "expiry": 1586170136739
+    },
+    "/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b4e8539d5fe5cd8543ba07c0f48c93bbc959aaf0ea3ec2affaead8e5482cb02ff1792b5154597a5e6841a89c15ab21a321e98d3c68707553ca382f9c4258816b",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "b4e8539d5fe5cd8543ba07c0f48c93bbc959aaf0ea3ec2affaead8e5482cb02ff1792b5154597a5e6841a89c15ab21a321e98d3c68707553ca382f9c4258816b",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1586170136747
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "38ffd191454e25d8788f5d42080c84ce8a7f04a1e459dbbfd1b919211ae64e6c0dfb39ccc9d601e2459af5e42d31b25b4ac3340a82eecf4f782f1a6f3a3243bc",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.3-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.3-final"
+          },
+          "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7",
+          "fileHash": "38ffd191454e25d8788f5d42080c84ce8a7f04a1e459dbbfd1b919211ae64e6c0dfb39ccc9d601e2459af5e42d31b25b4ac3340a82eecf4f782f1a6f3a3243bc",
+          "type": "Unknown",
+          "displayName": "Python 3.7.3 64-bit"
+        }
+      },
+      "expiry": 1586170136761
+    },
+    "/usr/local/opt/python/bin/python3.7.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "4b385e2062cce6819789efad1d1844bbe61e6186b262bf7be9afe0338343c3ff1b47b4a796a8c6df26511cfc625f9cfa2ab3526e68df2c7b1630801def903234",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/opt/python/bin/python3.7",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.6-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.6-final"
+          },
+          "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+          "fileHash": "4b385e2062cce6819789efad1d1844bbe61e6186b262bf7be9afe0338343c3ff1b47b4a796a8c6df26511cfc625f9cfa2ab3526e68df2c7b1630801def903234",
+          "type": "Unknown",
+          "displayName": "Python 3.7.6 64-bit"
+        }
+      },
+      "expiry": 1585396778881
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "620c7bc7350853b837393799ec47938b156b589c1e4c9377dd16d43b5deeea7ef8167ed6d4c2a56aa79a495352ddc991c2e89c8dfc168878192b3c1dab92643d",
+        "info": {
+          "architecture": 3,
+          "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "620c7bc7350853b837393799ec47938b156b589c1e4c9377dd16d43b5deeea7ef8167ed6d4c2a56aa79a495352ddc991c2e89c8dfc168878192b3c1dab92643d",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1586170728048
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/Users/icattus/.pyenv/shims/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+      "fileHash": "abab3890af7076cfc9c5a77dcbc4d9c2e01386b8aeffcd3fa0855fadd0b92b89d4ceb5e74569edf213c8cadf0ab02e2b3a85e0955c2f25b1e3c1e9f99f2e351d",
+      "type": "Unknown",
+      "displayName": "Python 3.7.7 64-bit"
+    },
+    "ProposeLSBanner": false,
+    "/Users/icattus/.pyenv/versions/3.7.7/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/versions/3.7.7/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "c20b5ce0f639bef86a9007928b4d0784d6eaa0129cf14d8b3e8328a52a0b2fee9b766081fa922a7517dbd8e0c6d19365f74f50706da0c828e4a6ca018b1216b7"
+      },
+      "expiry": 1586170134281
+    },
+    "/Users/icattus/.pyenv/versions/3.7.7/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/versions/3.7.7/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "728059c3fc7075ef767bfc349eb4afb00562799ffbb55fd77befc4a340357878d87a204f12d067c9e1bb7918986114b432305ec1bec31e3f0f80f4cf59368de2"
+      },
+      "expiry": 1586170134283
+    },
+    "/Users/icattus/.pyenv/versions/3.7.7/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/versions/3.7.7/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "858cd4804a1af8a163873d921f6a2a90f42df5d741ad15defb4fab2a209d23d984177cc887e3e6647144567f006e78f91e6a1e9cebc9ec3884e1ed2a5301b188"
+      },
+      "expiry": 1586170135619
+    },
+    "/Users/icattus/cattus/workspace/StudyPython/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/icattus/cattus/workspace/StudyPython/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Users/icattus/cattus/workspace/StudyPython",
+        "fileHash": "2b17acfbdc02659fa2cacf9cd58690479ba9f4a8e0502db3ad10ab8e3a0ec6b607953fd5011c392cf99f109448fb6fe3f4616110dcaf7d25c9c71021928fba68"
+      },
+      "expiry": 1585812356037
+    },
+    "InterpreterAutoSeletionRule-environment": {
+      "architecture": 3,
+      "path": "/Users/icattus/cattus/workspace/StudyPython/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "2.7.16-final",
+        "major": 2,
+        "minor": 7,
+        "patch": 16,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "2.7.16-final"
+      },
+      "sysPrefix": "/Users/icattus/cattus/workspace/StudyPython",
+      "fileHash": "2b17acfbdc02659fa2cacf9cd58690479ba9f4a8e0502db3ad10ab8e3a0ec6b607953fd5011c392cf99f109448fb6fe3f4616110dcaf7d25c9c71021928fba68",
+      "type": "VirtualEnv"
+    },
+    "/Users/icattus/.pyenv/versions/3.7.7/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.7 64-bit ('3.7.7': pyenv)",
+        "hash": "728059c3fc7075ef767bfc349eb4afb00562799ffbb55fd77befc4a340357878d87a204f12d067c9e1bb7918986114b432305ec1bec31e3f0f80f4cf59368de2-f0d81a3a65933fb325f96111054c26db"
+      },
+      "expiry": 1586170136683
+    },
+    "/Users/icattus/cattus/workspace/StudyPython/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "2b17acfbdc02659fa2cacf9cd58690479ba9f4a8e0502db3ad10ab8e3a0ec6b607953fd5011c392cf99f109448fb6fe3f4616110dcaf7d25c9c71021928fba68",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/icattus/cattus/workspace/StudyPython/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/Users/icattus/cattus/workspace/StudyPython",
+          "fileHash": "2b17acfbdc02659fa2cacf9cd58690479ba9f4a8e0502db3ad10ab8e3a0ec6b607953fd5011c392cf99f109448fb6fe3f4616110dcaf7d25c9c71021928fba68",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1585443645806
+    },
+    "/Users/icattus/.pyenv/versions/3.7.7/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "728059c3fc7075ef767bfc349eb4afb00562799ffbb55fd77befc4a340357878d87a204f12d067c9e1bb7918986114b432305ec1bec31e3f0f80f4cf59368de2",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/icattus/.pyenv/versions/3.7.7/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.7-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 7,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.7-final"
+          },
+          "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+          "fileHash": "728059c3fc7075ef767bfc349eb4afb00562799ffbb55fd77befc4a340357878d87a204f12d067c9e1bb7918986114b432305ec1bec31e3f0f80f4cf59368de2",
+          "envName": "3.7.7",
+          "type": "Pyenv",
+          "displayName": "Python 3.7.7 64-bit ('3.7.7': pyenv)"
+        }
+      },
+      "expiry": 1586170136724
+    },
+    "/Users/icattus/cattus/workspace/StudyPython/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "2b17acfbdc02659fa2cacf9cd58690479ba9f4a8e0502db3ad10ab8e3a0ec6b607953fd5011c392cf99f109448fb6fe3f4616110dcaf7d25c9c71021928fba68-085d365de68548e1bcdb0a1bd58f0b82"
+      },
+      "expiry": 1585443645795
+    },
+    "/Users/icattus/.pyenv/shims/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "abab3890af7076cfc9c5a77dcbc4d9c2e01386b8aeffcd3fa0855fadd0b92b89d4ceb5e74569edf213c8cadf0ab02e2b3a85e0955c2f25b1e3c1e9f99f2e351d"
+      },
+      "expiry": 1586169807484
+    },
+    "/Users/icattus/.pyenv/shims/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "48d8b757a1fc7fc51064ef71ab03d4ecc9e981b35d8ebce0e7b85de8700712c79300de1474db588361a59f8c326a2470818e78a0b658b24b9c1cef0987eb2848"
+      },
+      "expiry": 1586170135614
+    },
+    "/Users/icattus/.pyenv/shims/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/icattus/.pyenv/shims/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+        "fileHash": "a7e38c0c3537d164f7421ef4a3fc417e6c7ff3b198d2130b7313c6e42983c0e5a06319e85661d6f87c490fc9d2699b1b3b5be63f791ac2eebcdb6867e08fffcb"
+      },
+      "expiry": 1586170135613
+    },
+    "/Users/icattus/.pyenv/shims/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.7 64-bit",
+        "hash": "abab3890af7076cfc9c5a77dcbc4d9c2e01386b8aeffcd3fa0855fadd0b92b89d4ceb5e74569edf213c8cadf0ab02e2b3a85e0955c2f25b1e3c1e9f99f2e351d-0d4854772762fc0e202d83fc6f6a9201"
+      },
+      "expiry": 1586170136687
+    },
+    "/Users/icattus/.pyenv/shims/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "abab3890af7076cfc9c5a77dcbc4d9c2e01386b8aeffcd3fa0855fadd0b92b89d4ceb5e74569edf213c8cadf0ab02e2b3a85e0955c2f25b1e3c1e9f99f2e351d",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/icattus/.pyenv/shims/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.7-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 7,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.7-final"
+          },
+          "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+          "fileHash": "abab3890af7076cfc9c5a77dcbc4d9c2e01386b8aeffcd3fa0855fadd0b92b89d4ceb5e74569edf213c8cadf0ab02e2b3a85e0955c2f25b1e3c1e9f99f2e351d",
+          "type": "Unknown",
+          "displayName": "Python 3.7.7 64-bit"
+        }
+      },
+      "expiry": 1586170136729
+    },
+    "pylint_DisableLinterInstallPrompt": true,
+    "/Applications/Xcode.app/Contents/Developer/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Applications/Xcode.app/Contents/Developer/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.3-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.3-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7",
+        "fileHash": "3df9273a5b88474d76d5597bea227c9b2f7ee5bb225ebac75a7eb78a97e0b5aa8fbf482b50e9ab90e187ce586a1d568f42c9eb728b5351c8a430aba913f7dabe"
+      },
+      "expiry": 1585395997185
+    },
+    "/Applications/Xcode.app/Contents/Developer/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.3 64-bit",
+        "hash": "3df9273a5b88474d76d5597bea227c9b2f7ee5bb225ebac75a7eb78a97e0b5aa8fbf482b50e9ab90e187ce586a1d568f42c9eb728b5351c8a430aba913f7dabe-8028ec77edb1ca74562dc8893733f06d"
+      },
+      "expiry": 1585396013054
+    },
+    "/Applications/Xcode.app/Contents/Developer/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "3df9273a5b88474d76d5597bea227c9b2f7ee5bb225ebac75a7eb78a97e0b5aa8fbf482b50e9ab90e187ce586a1d568f42c9eb728b5351c8a430aba913f7dabe",
+        "info": {
+          "architecture": 3,
+          "path": "/Applications/Xcode.app/Contents/Developer/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.3-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.3-final"
+          },
+          "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7",
+          "fileHash": "3df9273a5b88474d76d5597bea227c9b2f7ee5bb225ebac75a7eb78a97e0b5aa8fbf482b50e9ab90e187ce586a1d568f42c9eb728b5351c8a430aba913f7dabe",
+          "type": "Unknown",
+          "displayName": "Python 3.7.3 64-bit"
+        }
+      },
+      "expiry": 1585396013069
+    }
+  },
+  "coc-python|/Users/icattus/.config/myDotFiles/nvim/vim-powerline": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:589ec9603646c336bd9c0f2f594ad17f": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:589ec9603646c336bd9c0f2f594ad17f": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/icattus/.config/myDotFiles/nvim/vim-powerline": {
+      "architecture": 3,
+      "path": "/usr/local/opt/python/bin/python3.7",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.6-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.6-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+      "fileHash": "4b385e2062cce6819789efad1d1844bbe61e6186b262bf7be9afe0338343c3ff1b47b4a796a8c6df26511cfc625f9cfa2ab3526e68df2c7b1630801def903234",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/icattus/cattus/workspace/StudyPython": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:4cc21510102cedcf2b0f3468af2c202f": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:4cc21510102cedcf2b0f3468af2c202f": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/icattus/cattus/workspace/StudyPython": {
+      "architecture": 3,
+      "path": "/Users/icattus/cattus/workspace/StudyPython/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "2.7.16-final",
+        "major": 2,
+        "minor": 7,
+        "patch": 16,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "2.7.16-final"
+      },
+      "sysPrefix": "/Users/icattus/cattus/workspace/StudyPython",
+      "fileHash": "2b17acfbdc02659fa2cacf9cd58690479ba9f4a8e0502db3ad10ab8e3a0ec6b607953fd5011c392cf99f109448fb6fe3f4616110dcaf7d25c9c71021928fba68",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "SelectedPythonPath": "/Users/icattus/.pyenv/shims/python"
+  },
+  "coc-python|/Users/icattus/cattus/workspace/StudyPython/scripts": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:3dc0c135d41818a45cb07a8406c824ce": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:3dc0c135d41818a45cb07a8406c824ce": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/icattus/cattus/workspace/StudyPython/scripts": {
+      "architecture": 3,
+      "path": "/Users/icattus/.pyenv/shims/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+      "fileHash": "abab3890af7076cfc9c5a77dcbc4d9c2e01386b8aeffcd3fa0855fadd0b92b89d4ceb5e74569edf213c8cadf0ab02e2b3a85e0955c2f25b1e3c1e9f99f2e351d",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.7.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "SelectedPythonPath": "/Users/icattus/.pyenv/shims/python"
+  },
+  "coc-python|/Users/icattus/cattus/workspace/StudyPython/MIT-Python": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d56e1853cb987ead73cf77319023f471": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d56e1853cb987ead73cf77319023f471": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/icattus/cattus/workspace/StudyPython/MIT-Python": {
+      "architecture": 3,
+      "path": "/Users/icattus/.pyenv/shims/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+      "fileHash": "abab3890af7076cfc9c5a77dcbc4d9c2e01386b8aeffcd3fa0855fadd0b92b89d4ceb5e74569edf213c8cadf0ab02e2b3a85e0955c2f25b1e3c1e9f99f2e351d",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.7.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/icattus/cattus/workspace/particle_filter_practice": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:6dfbcd40aef67834e86df057fc1b6046": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:6dfbcd40aef67834e86df057fc1b6046": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/icattus/cattus/workspace/particle_filter_practice": {
+      "architecture": 3,
+      "path": "/Users/icattus/.pyenv/shims/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/Users/icattus/.pyenv/versions/3.7.7",
+      "fileHash": "abab3890af7076cfc9c5a77dcbc4d9c2e01386b8aeffcd3fa0855fadd0b92b89d4ceb5e74569edf213c8cadf0ab02e2b3a85e0955c2f25b1e3c1e9f99f2e351d",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.7.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  }
+}

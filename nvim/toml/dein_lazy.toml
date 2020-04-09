@@ -1,0 +1,31 @@
+[[plugins]]
+repo = "cohama/lexima.vim"
+on_i = 1
+
+[[plugins]]
+repo = "tpope/vim-surround"
+on_i = 1
+
+[[plugins]]
+repo = "liuchengxu/vista.vim"
+hook_source = '''
+let g:vista_default_executive = "coc"
+let g:vista_echo_cursor_strategy = "floating_win"
+let g:vista_cursor_delay = "200"
+let g:vista#renderer#enable_icon = 1
+let g:vista_update_on_text_changed = 1
+let g:vista_update_on_text_changed_delay = 200
+let g:vista_highlight_whole_line = 1
+let g:vista_sidebar_width = 30
+'''
+
+[[plugins]]
+repo = "iamcco/markdown-preview.nvim"
+on_ft = ['markdown', 'rmd', 'pandac.markdown']
+buid = 'sh -c "cd app & yarn install"'
+hook_add = '''
+let g:mapleader = "\<space>"
+let g:mkdp_port = '8888'
+nmap <leader>md :MarkdownPreview
+nmap <leader>ms :MarkdownStop
+'''

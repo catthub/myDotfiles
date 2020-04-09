@@ -1,0 +1,55 @@
+### plugins for rust ###
+[[plugins]]
+repo = 'rust-lang/rust.vim'
+on_ft = 'rust'
+hook_add = '''
+command! -nargs=0 Hello call Hello()
+function! Hello()
+  echo expand("%:r")
+endfunction
+
+command! -nargs=0 RunCurrentExam call RunCurrentExam()
+function! RunCurrentExam()
+  let ex = [":Cargo run --example"]
+  let na = expand("%:t:r")
+  call add(ex, na)
+  let ful = join(ex)
+  execute ful
+endfunction
+
+let g:mapleader = "\<Space>"
+nnoremap <leader>rr :Cargo run<CR>
+nnoremap <leader>re :RunCurrentExam<CR>
+nnoremap <leader>rc :Cargo check<CR>
+nnoremap <leader>rb :Cargo build<CR>
+nnoremap <leader>rt :Cargo test<CR>
+let g:rustfmt_autosave = 1
+'''
+
+
+### plugins for toml ###
+[[plugins]]
+repo = 'cespare/vim-toml'
+on_ft = 'toml'
+
+
+#### plugin for R ####
+# [[plugins]]
+# repo = 'jalvesaq/Nvim-R'
+# on_ft = ['r', 'R']
+# hook_add = '''
+# let g:maplocalleader = "."
+# vmap <Space><Space> <Plug>RDSendSelection
+# nmap <Space><Space> <Plug>RDSendLine
+# let g:R_assign = 0
+# let g:R_objbr_opendf = 0
+# let g:R_insert_mode_cmds = 1
+# let g:r_indent_align_args = 1
+# let g:R_rconsole_width = 0
+# let g:R_parenblock = 1
+# '''
+
+
+#### plugin for julia ####
+# [[plugins]]
+#repo = "juliaEditorSupport/julia-vim"

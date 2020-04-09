@@ -1,0 +1,17 @@
+add_newline = false
+prompt_order=["rust","line_break","package","line_break","character","directory"]
+
+[battery]
+full_symbol = "🔋"
+charging_symbol = "⚡️"
+disabled = true
+
+[[battery.display]]
+threshold = 100
+style = "bold red"
+
+[character]
+symbol = "❯❯"
+error_symbol = "✗"
+use_symbol_for_status = true
+
